@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BorisEcommerce/static/css/main.31d6cfe0.css",
+    "main.js": "/BorisEcommerce/static/js/main.3b95616a.js",
+    "static/js/787.50776d48.chunk.js": "/BorisEcommerce/static/js/787.50776d48.chunk.js",
+    "index.html": "/BorisEcommerce/index.html",
+    "main.3b95616a.js.map": "/BorisEcommerce/static/js/main.3b95616a.js.map",
+    "787.50776d48.chunk.js.map": "/BorisEcommerce/static/js/787.50776d48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3b95616a.js"
+  ]
+}
